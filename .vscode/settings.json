@@ -1,0 +1,11 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tabSize": 2,
+  "editor.useTabStops": false,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "eslint.lintTask.enable": true,
+  "eslint.format.enable": true,
+  "prettier.configPath": ".prettierrc.json"
+}
